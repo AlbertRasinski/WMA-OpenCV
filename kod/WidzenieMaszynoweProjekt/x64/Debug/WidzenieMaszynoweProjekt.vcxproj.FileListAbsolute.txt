@@ -1,0 +1,10 @@
+C:\Users\Albert\Desktop\WM-projekt\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.MyForm.resources
+C:\Users\Albert\Desktop\WM-projekt\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.vcxproj.GenerateResource.cache
+C:\Users\Albert\Desktop\WM-projekt\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.exe
+C:\Users\Albert\Desktop\WM-projekt\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.pdb
+C:\Users\Albert\Desktop\WM-projekt\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.vcxprojAssemblyReference.cache
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.vcxprojAssemblyReference.cache
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.MyForm.resources
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.vcxproj.GenerateResource.cache
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.exe
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.pdb

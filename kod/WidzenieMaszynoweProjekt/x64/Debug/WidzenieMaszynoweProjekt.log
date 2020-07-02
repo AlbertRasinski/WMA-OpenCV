@@ -1,0 +1,176 @@
+﻿  MyForm.cpp
+  OpenCVClass.cpp
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(113,66): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(113,48): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(114,66): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(114,48): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(115,68): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(115,49): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(116,68): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(116,49): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(123,66): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(123,48): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(124,68): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(124,49): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(125,68): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(125,49): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(126,66): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\OpenCVClass.cpp(126,48): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+D:\c++extensions\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\mat.inl.hpp(2181): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\mat.inl.hpp(3781): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\mat.inl.hpp(748): warning C4793: 'cv::Mat::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\mat.inl.hpp(2181): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\c++extensions\opencv\build\include\opencv2\core\mat.inl.hpp(3781): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WidzenieMaszynoweProjekt.vcxproj -> C:\Users\Albert\Desktop\Rasinski_Albert_WM-projekt\kod\WidzenieMaszynoweProjekt\x64\Debug\WidzenieMaszynoweProjekt.exe
